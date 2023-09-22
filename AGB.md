@@ -83,7 +83,7 @@ Der Kunde hat das Recht, erstellte Text- und Bildinhalte auch über die Mietdaue
 (3) Als Zahlungsmethode gilt das Lastschriftverfahren als vereinbart. 
 (4) Für Rückbuchungen kann 1aWebmarketing eine Bearbeitungspauschale von € 15,- berechnen.
 
-## Allgemeines
+## Allgemein
 
 ### $ 18 Sonstiges
  (1) Beide Seiten verpflichten sich zur vertrauensvollen Zusammenarbeit. Sollten Meinungsverschiedenheiten auftreten, so erklären beide Parteien, diese zunächst außergerichtlich beizulegen.
