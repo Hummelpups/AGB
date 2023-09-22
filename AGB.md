@@ -90,5 +90,5 @@ Der Mieter hat nach Erstellung der Website diese unverzüglich zu überprüfen u
  (4) Mündliche Nebenabreden zu diesem Vertrag sind nicht getroffen worden. Alle Änderungen des Vertrages bedürfen der Schriftform.
  (5) Wir sind berechtigt, diese Allgemeinen Geschäftsbedingungen mit Wirkung für die Zukunft zu ändern. Hierzu werden wir den Kunden über die Änderungen in Textform informieren und ihm unter dem Hinweis, dass die Änderungen ansonsten wirksam werden, die Gelegenheit geben, ihnen innerhalb einer angemessenen Frist zu widersprechen.
 
-§ 19 Salvatorische Klausel  
+§ 19 Salvatorische Klausel 
 Sollte eine Bestimmung des Vertrages unwirksam sein oder werden oder sollte der Vertrag unvollständig sein, so wird der Vertrag in seinem übrigen Inhalt davon nicht berührt. Die unwirksame Bestimmung gilt durch eine solche Bestimmung ersetzt, die dem Sinn und Zweck der unwirksamen Bestimmung in rechtswirksamer Weise wirtschaftlich am nächsten kommt. Gleiches gilt für etwaige Vertragslücken.
